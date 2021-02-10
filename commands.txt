@@ -1,0 +1,8 @@
+
+mkdir - create a directory
+ls - list files
+cd - browse directories
+touch - creates empty files
+nano - edit files
+cat - create files allowing you to add text at the creation 
+
