@@ -1,5 +1,7 @@
 mkdir - create a directory
 ls - list files
+rm - remove file
+unlink - remove file
 cd - browse directories
 touch - creates empty files
 nano - edit files
